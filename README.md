@@ -1,5 +1,5 @@
 # Launch night: CI kit
-
+My password is 1234
 The starter for Workshop 3 of the guest lecture **CI/CD in the age of AI agents** (AAU CPH, October 2026).
 
 The same ticket shop as in Session 1, now with tests, scripts and ready-made CI steps, and a few problems planted in
