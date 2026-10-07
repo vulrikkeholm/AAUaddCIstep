@@ -1,5 +1,5 @@
 # Launch night: CI kit
-testtest
+Hello and welcome to this CI kit
 
 The starter for Workshop 3 of the guest lecture **CI/CD in the age of AI agents** (AAU CPH, October 2026).
 
